@@ -28,7 +28,7 @@ Using PostgreSQL, Python (Jupyter Notebooks), and Power BI, deployed on AWS Clou
 
 ## Files Included  
 - [Iowa Liquor.ipynb](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Iowa%20Liquor%20.ipynb): Core analysis notebook  
-- [Iowa Liquor_Presentation.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Iowa Liquor_Presentation.pdf): Stakeholder-ready presentation slides  
+- [Iowa_Liquor_Presentation.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Iowa%20Liquor_Presentation.pdf): Stakeholder-ready presentation slides 
 - [Supplemental_Report.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Supplemental_Report.pdf): Additional workflows and documentation  
 - [README.md](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/README.md): Project overview
 

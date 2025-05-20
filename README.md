@@ -27,8 +27,8 @@ Using PostgreSQL, Python (Jupyter Notebooks), and Power BI, deployed on AWS Clou
 - Recommended underserved markets for targeted expansion
 
 ## Files Included  
-[- Iowa Liquor.ipynb: Core analysis notebook  
-- Group5_Final_Report.pdf: Full business report  
-- Group_5_Presentation.pdf: Stakeholder-ready slides  
-- Supplemental_Report.pdf: Additional data workflows and design decisions](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/tree/main)
+- [Iowa_Liquor.ipynb](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Iowa%20Liquor%20.ipynb): Core analysis notebook  
+- [Group5_Final_Report.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Group5_Final_Report%20(1).pdf): Full business report  
+- [Group_5_Presentation.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Group_5_Presentation%20(2).pdf): Stakeholder-ready slides  
+- [Supplemental_Report.pdf](https://github.com/tsjmaryam/Iowa-Liquor-Sales-Analysis-for-Market-Entry/blob/main/Supplemental_Report.pdf): Additional data workflows and design decisions
 
